@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 ### **1️⃣ Clone the Repository**
 ```sh
- git clone https://github.com/Safeeya-Munawwar/Portfolio.git
+ git clone https://github.com/Safeeya-Munawwar/Personal-Portfolio.git
 ```
 
 ### **2️⃣ Navigate to the Project Directory**
@@ -102,7 +102,7 @@ For any inquiries, feel free to reach out:
 
 ---
 
-## 📜 Author
+## 🚀 Author
 [Safeeya Munawwar](https://github.com/Safeeya-Munawwar)
 
 ### **📜 License**
