@@ -96,9 +96,9 @@ The portfolio is **deployed on Vercel** for easy access. Click the link below to
 
 For any inquiries, feel free to reach out:
 
-- 📧 **Email:** [shafiyasha0036@gmail.com](mailto:shafiyasha0036@gmail.com)
-- 🔗 **LinkedIn:** [Safeeya Munawwar](https://www.linkedin.com/in/safeeya-munawwar)
-- 💻 **GitHub:** [Safeeya Munawwar](https://github.com/Safeeya-Munawwar)
+- 📧 [Email](mailto:shafiyasha0036@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/safeeya-munawwar)
+- 💻 [GitHub](https://github.com/Safeeya-Munawwar)
 
 ---
 
