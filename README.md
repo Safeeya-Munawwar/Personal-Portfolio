@@ -1,36 +1,111 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Safeeya Munawwar - Personal Portfolio
 
-## Getting Started
+## 📌 Overview
+Welcome to my **Personal Portfolio**! This portfolio showcases my **skills, projects, education, certifications, and experiences** as a **Full-Stack Developer, UI Designer, and ICT Tutor**. The website is designed to be mobile-friendly, interactive, and visually appealing.
 
-First, run the development server:
+## 🚀 Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- **Frontend:** Next.js (React Framework), React.js, JavaScript, HTML, CSS
+- **Styling:** Tailwind CSS, Global CSS (`globals.css`)
+- **Icons & UI Components:** React Icons (`react-icons`)
+- **State Management:** React Hooks (`useState`)
+- **Form Handling:** Formspree API
+- **Hosting & Deployment:** Vercel
+
+## ✨ Features
+
+- **🌐 Responsive Design:** Works seamlessly on all screen sizes
+- **🗺️ Navigation Bar:** Smooth navigation through different sections
+- **⚡ Skills Animation:** Infinite scrolling effect for skills display
+- **📁 Project Showcase:** Displays projects with descriptions, links, and images
+- **📩 Contact Form:** Allows visitors to send messages via Formspree
+- **🔗 Footer with Social Links:** Quick access to LinkedIn, GitHub, and Email
+- **🎨 Modern UI/UX:** Clean and minimalistic design
+
+## 📑 Pages & Sections
+
+### **🏠 Home Page**
+- Introduction with a professional summary
+- Profile image and animated text
+
+### **🎓 Education**
+- Academic background with institutions and degree details
+
+### **📜 Certifications**
+- Certifications and achievements related to IT and development
+
+### **🛠️ Skills**
+- Display of programming languages, frameworks, and tools
+- Animated scrolling text of skills
+
+### **📁 Projects**
+- List of completed projects with descriptions and live/demo links
+
+### **💼 Experiences**
+- Work and internship experiences with roles and responsibilities
+
+### **👤 About Me**
+- A brief introduction about my journey and vision
+
+### **📩 Contact**
+- Contact form with email integration via Formspree
+- Social media links (LinkedIn, GitHub, Email)
+
+## 💻 Installation & Setup
+
+To run this project locally, follow these steps:
+
+### **1️⃣ Clone the Repository**
+```sh
+ git clone https://github.com/Safeeya-Munawwar/Portfolio.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### **2️⃣ Navigate to the Project Directory**
+```sh
+ cd Portfolio
+```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### **3️⃣ Install Dependencies**
+```sh
+ npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### **4️⃣ Run the Development Server**
+```sh
+ npm run dev
+```
 
-## Learn More
+### **5️⃣ Open in Browser**
+Go to `http://localhost:3000` to view the portfolio in action.
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The portfolio is **deployed on Vercel** for easy access. Click the link below to view it live:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🔗 **[Live Portfolio](https://safeeya-munawwar-personal-portfolio.vercel.app/)**
 
-## Deploy on Vercel
+## 🛠️ Tools & Resources
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Code Editor:** VS Code
+- **Version Control:** Git & GitHub
+- **Hosting:** Vercel
+- **APIs:** Formspree for contact form
+- **Icons:** React Icons (`react-icons`)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📝 Contact Information
+
+For any inquiries, feel free to reach out:
+
+- 📧 **Email:** [shafiyasha0036@gmail.com](mailto:shafiyasha0036@gmail.com)
+- 🔗 **LinkedIn:** [Safeeya Munawwar](https://www.linkedin.com/in/safeeya-munawwar)
+- 💻 **GitHub:** [Safeeya Munawwar](https://github.com/Safeeya-Munawwar)
+
+---
+
+## 📜 Author
+[Safeeya Munawwar](https://github.com/Safeeya-Munawwar)
+
+### **📜 License**
+This project is open-source and available under the **MIT License**.
+
+**© 2024 Safeeya Munawwar | All Rights Reserved** 🚀
