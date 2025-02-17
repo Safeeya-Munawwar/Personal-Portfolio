@@ -82,7 +82,7 @@ Go to `http://localhost:3000` to view the portfolio in action.
 
 The portfolio is **deployed on Vercel** for easy access. Click the link below to view it live:
 
-🔗 **[Live Portfolio](https://safeeya-munawwar-personal-portfolio.vercel.app/)**
+🔗 **[Live Portfolio](https://personal-portfolio-ejjn.vercel.app/)**
 
 ## 🛠️ Tools & Resources
 
