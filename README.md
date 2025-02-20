@@ -14,7 +14,6 @@ Welcome to my **Personal Portfolio**! This portfolio showcases my **skills, proj
 
 ## ✨ Features
 
-- **🌐 Responsive Design:** Works seamlessly on all screen sizes
 - **🗺️ Navigation Bar:** Smooth navigation through different sections
 - **⚡ Skills Animation:** Infinite scrolling effect for skills display
 - **📁 Project Showcase:** Displays projects with descriptions, links, and images
