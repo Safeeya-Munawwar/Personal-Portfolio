@@ -1,6 +1,10 @@
 import React from 'react';
 import { FaLinkedin, FaGithub, FaEnvelope, FaExternalLinkAlt, FaSearch, FaDownload, FaGraduationCap, FaSchool } from "react-icons/fa";
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
 
 export default function Skills() {
     return (
