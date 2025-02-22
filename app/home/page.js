@@ -3,11 +3,6 @@ import {
   FaLinkedin, FaGithub, FaEnvelope, FaExternalLinkAlt, FaSearch, FaDownload 
 } from "react-icons/fa";
 
-export const viewport = {
-  width: "device-width",
-  initialScale: 1,
-};
-
 export default function Home() {
   return (
     <div className="min-h-screen flex flex-col">
