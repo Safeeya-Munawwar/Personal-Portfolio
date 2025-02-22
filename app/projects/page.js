@@ -7,10 +7,16 @@ export default function Projects() {
   
   const projects = [
     {
-      title: "Personal Portfolio",
+      title: "Web & Mobile Based Personal Portfolio",
+      description: "A dynamic and interactive portfolio showcasing my skills, projects, and experiences. Built using HTML5, CSS3, JavaScript, and EmailJS for contact form handling.",
+      image: "portfolio new.PNG",  
+      link: "https://safeeya-munawwar-personal-portfolio.vercel.app/",
+    },
+    {
+      title: "Web-Based Personal Portfolio",
       description: "Safeeya Munawwar - Personal Portfolio: A dynamic and interactive portfolio showcasing my skills, projects, and experiences. Built using Next.js, Tailwind CSS, React, and Formspree for contact form handling.",
       image: "portfolio.PNG",  
-      link: "https://safeeya-munawwar-personal-portfolio.vercel.app/",
+      link: "https://personal-portfolio-ejjn.vercel.app/",
     },
     {
       title: "Pharmacy Management System",
