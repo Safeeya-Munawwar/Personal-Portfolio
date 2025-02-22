@@ -3,6 +3,11 @@
 import React, { useState } from "react";
 import { FaLinkedin, FaGithub, FaEnvelope, FaExternalLinkAlt } from "react-icons/fa";
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
+
 export default function ContactMe() {
   const [formData, setFormData] = useState({ name: "", email: "", message: "" });
   const [successMessage, setSuccessMessage] = useState("");
