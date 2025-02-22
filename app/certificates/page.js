@@ -4,10 +4,17 @@ import { FaLinkedin, FaGithub, FaEnvelope, FaExternalLinkAlt } from "react-icons
 export default function Skills() {
     return (
            <div className="min-h-screen flex flex-col">
-
-             {/* Certificates Section */}
+           
+            {/* Certificates Section */}
             <div className="certificates-container">
                 <h1>Completed Certificates</h1>
+
+                <div className="certificate-image">
+                    <h4>Python for Beginners</h4>
+                    <p>University of Moratuwa</p>
+                    <p>February 2025</p>
+                    <img src="/pythonc.PNG" alt="Python" />
+                </div>
 
                 <div className="certificate-image">
                     <h4>Python Programming</h4>
