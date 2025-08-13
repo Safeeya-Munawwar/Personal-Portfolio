@@ -109,3 +109,7 @@ The portfolio is **deployed on Vercel** for easy access. Click the link below to
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
+© 2024 Personal Portfolio | Built with ❤️ using React, Next.js, JavaScript, HTML, CSS, TailwindCSS
